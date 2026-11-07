@@ -1,0 +1,29 @@
+name: tts
+on:
+  push:
+    paths: ["tts/job.json"]
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: |
+          pip install --quiet torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install --quiet chatterbox-tts
+      - name: Generate
+        run: python tts/run.py
+      - name: Commit
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add tts_out
+          git commit -m "TTS output" || exit 0
+          git pull --rebase
+          git push

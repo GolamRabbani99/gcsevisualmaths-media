@@ -1,12 +1,11 @@
-{"name": "bid3", "gap": 0.28, "exaggeration": 0.55, "cfg": 0.5,
+{"name": "pct4", "gap": 0.25, "exaggeration": 0.6, "cfg": 0.45,
  "sentences": [
-  "Twelve divided by two, times three.",
-  "Is it two... or eighteen?",
-  "A lot of students do the times first. Two times three is six, twelve divided by six is two.",
-  "Wrong!",
-  "Divide and multiply are equal partners, so you go left to right.",
-  "Twelve divided by two is six.",
-  "Six times three... eighteen!",
-  "Same rule for add and subtract.",
-  "Your turn: twenty minus five plus three."
+  "Eight percent of fifty.",
+  "No calculator. One second.",
+  "Here's the trick. Just swap them!",
+  "Eight percent of fifty is the same as fifty percent of eight.",
+  "And fifty percent is half.",
+  "Half of eight... four!",
+  "It works because percent means divide by a hundred, and you can multiply in any order.",
+  "Your turn: four percent of seventy-five."
  ]}

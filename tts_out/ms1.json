@@ -1,0 +1,38 @@
+[
+ [
+  0.0,
+  6.96,
+  "S",
+  "Same four pieces. Same triangle. So where did this empty square come from?"
+ ],
+ [
+  7.21,
+  10.89,
+  "T",
+  "It's a trick! That is not really a triangle."
+ ],
+ [
+  11.14,
+  19.42,
+  "T",
+  "The red piece climbs two for every five across. The blue piece climbs three for every eight."
+ ],
+ [
+  19.67,
+  21.71,
+  "S",
+  "So the slopes are different?"
+ ],
+ [
+  21.96,
+  31.12,
+  "T",
+  "Yes! The long edge bends a tiny bit. And that thin gap adds up to exactly one square."
+ ],
+ [
+  31.37,
+  34.93,
+  "T",
+  "Did it fool you? Tell me in the comments."
+ ]
+]

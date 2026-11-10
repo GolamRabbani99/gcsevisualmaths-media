@@ -1,45 +1,9 @@
 {"jobs": [
- {"name": "d1", "lines": [
-  ["S", "Miss, what's eight percent of fifty? I need a calculator."],
-  ["T", "No you don't! Just swap the numbers."],
-  ["T", "Eight percent of fifty is the same as fifty percent of eight."],
-  ["S", "Fifty percent is half... so it's four?"],
-  ["T", "Yes! Four. It works every time."],
-  ["T", "Your turn: four percent of seventy-five."]]},
- {"name": "d2", "lines": [
-  ["S", "What's ninety-nine times forty-seven? That's impossible in my head."],
-  ["T", "Think of ninety-nine as a hundred minus one."],
-  ["T", "Forty-seven times a hundred is four thousand seven hundred."],
-  ["S", "Then I take away forty-seven?"],
-  ["T", "Exactly! Four thousand six hundred and fifty-three."],
-  ["T", "Your turn: ninety-nine times twenty-three."]]},
- {"name": "d3", "lines": [
-  ["S", "Point nine recurring is almost one. But not exactly one, right?"],
-  ["T", "It's exactly one. Watch. Call it x."],
-  ["T", "Ten x is nine point nine recurring."],
-  ["S", "So if I take x away... the nines disappear?"],
-  ["T", "Yes! Nine x equals nine. So x equals one."],
-  ["T", "Point nine recurring is one. Do you believe it? Tell me in the comments."]]},
- {"name": "d4", "lines": [
-  ["S", "Ninety-six times ninety-seven. Is there a trick for this?"],
-  ["T", "Yes! How far is each one from a hundred?"],
-  ["S", "Four... and three."],
-  ["T", "Ninety-six take away three is ninety-three. Four times three is twelve."],
-  ["T", "Put them together. Nine thousand three hundred and twelve!"],
-  ["S", "That's so fast!"],
-  ["T", "Your turn: ninety-eight times ninety-five."]]},
- {"name": "d5", "lines": [
-  ["S", "I can never remember sine thirty or sine sixty."],
-  ["T", "Use your hand! Your fingers are zero, thirty, forty-five, sixty and ninety degrees."],
-  ["T", "Fold down the angle's finger. Count the fingers below it. Square root, then divide by two."],
-  ["T", "Sine thirty: one finger below. Root one over two. A half!"],
-  ["S", "So sine sixty is root three over two?"],
-  ["T", "Exactly! Your turn: sine forty-five."]]},
- {"name": "d6", "lines": [
-  ["S", "How many triangles are in this picture? I counted six."],
-  ["T", "It's easy to miss some. Count the spaces along the bottom."],
-  ["S", "One, two, three, four."],
-  ["T", "Now add one plus two plus three plus four."],
-  ["S", "Ten?"],
-  ["T", "Ten triangles! Your turn: how many with five spaces?"]]}
+ {"name": "ms1", "lines": [
+  ["S", "Same four pieces. Same triangle. So where did this empty square come from?"],
+  ["T", "It's a trick! That is not really a triangle."],
+  ["T", "The red piece climbs two for every five across. The blue piece climbs three for every eight."],
+  ["S", "So the slopes are different?"],
+  ["T", "Yes! The long edge bends a tiny bit. And that thin gap adds up to exactly one square."],
+  ["T", "Did it fool you? Tell me in the comments."]]}
 ]}

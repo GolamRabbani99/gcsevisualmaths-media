@@ -1,10 +1,30 @@
 {"jobs": [
- {"name": "v1", "lines": [
-  ["T", "Look at this triangle. Four pieces."],
-  ["T", "Now I move the same four pieces around."],
-  ["S", "Wait... there's a hole! Where did the square go?"],
-  ["T", "Here's the secret. It was never a real triangle."],
-  ["T", "The red slope is three over eight. The blue slope is two over five. They are different!"],
-  ["S", "So the long side is bent?"],
-  ["T", "Exactly. That tiny bend hides one whole square. Did you spot it?"]]}
+ {"name": "k1", "lines": [
+  ["S", "Square root of seven thousand five hundred and sixty-nine."],
+  ["S", "No calculator. Three seconds."],
+  ["S", "Last digit nine, so the answer ends in three or seven."],
+  ["S", "Cover the last two digits. Seventy-five."],
+  ["S", "Eight squared is sixty-four. Nine squared is eighty-one, too big. So it starts with eight."],
+  ["S", "Eighty-three or eighty-seven? Eight times nine is seventy-two."],
+  ["S", "Seventy-five is bigger, so pick the bigger one. Eighty-seven!"],
+  ["S", "Your turn: square root of three thousand nine hundred and sixty-nine."]]},
+ {"name": "k2", "lines": [
+  ["S", "Seventy-eight times eleven."],
+  ["S", "Split the digits. Seven... eight."],
+  ["S", "Add them. Fifteen. Too big for the middle!"],
+  ["S", "Write the five, and carry the one onto the seven."],
+  ["S", "Eight hundred and fifty-eight!"],
+  ["S", "Your turn: sixty-seven times eleven."]]},
+ {"name": "k3", "lines": [
+  ["S", "Thirty-six times twenty-five."],
+  ["S", "Here's the trick. Twenty-five is a hundred divided by four."],
+  ["S", "So divide thirty-six by four. Nine."],
+  ["S", "Then times a hundred. Nine hundred!"],
+  ["S", "Your turn: forty-four times twenty-five."]]},
+ {"name": "k4", "lines": [
+  ["S", "Three hundred and forty, divided by five."],
+  ["S", "Here's the trick. Double it, then divide by ten."],
+  ["S", "Double three hundred and forty is six hundred and eighty."],
+  ["S", "Divide by ten. Sixty-eight!"],
+  ["S", "Your turn: four hundred and twenty divided by five."]]}
 ]}

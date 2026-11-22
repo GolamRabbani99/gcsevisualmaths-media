@@ -1,0 +1,44 @@
+[
+ [
+  0.0,
+  7.44,
+  "V",
+  "Pick any three-digit number. Like seven three two. The first and last digits must be different."
+ ],
+ [
+  7.69,
+  10.97,
+  "V",
+  "Reverse it. Two three seven."
+ ],
+ [
+  11.22,
+  15.86,
+  "V",
+  "Take the smaller from the bigger. Four nine five."
+ ],
+ [
+  16.11,
+  19.95,
+  "V",
+  "Now reverse that. Five nine four."
+ ],
+ [
+  20.2,
+  22.16,
+  "V",
+  "Add them together."
+ ],
+ [
+  22.41,
+  25.29,
+  "V",
+  "One thousand and eighty-nine!"
+ ],
+ [
+  25.54,
+  32.98,
+  "V",
+  "Try it with your own number. You get one thousand and eighty-nine every time. Comment your number!"
+ ]
+]

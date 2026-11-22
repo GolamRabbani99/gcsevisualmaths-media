@@ -3,7 +3,7 @@ from chatterbox.tts import ChatterboxTTS
 job = json.load(open("tts/job.json"))
 m = ChatterboxTTS.from_pretrained(device="cpu")
 os.makedirs("tts_out", exist_ok=True)
-REF = {"S": "tts/ref.wav", "T": "tts/ref_f.wav"}
+REF = {"S": "tts/ref.wav", "T": "tts/ref_f.wav", "V": "tts/ref_v.wav"}
 for j in job["jobs"]:
     gap = torch.zeros(1, int(m.sr * j.get("gap", 0.25)))
     parts, times, t = [], [], 0.0

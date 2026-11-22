@@ -1,33 +1,32 @@
 {"jobs": [
- {"name": "m1", "lines": [
-  ["S", "Twenty-three times forty-one."],
-  ["S", "Here's the criss-cross trick."],
-  ["S", "Last digits. Three times one is three."],
-  ["S", "Now cross. Two times one is two, plus three times four is twelve. Fourteen."],
-  ["S", "Write the four, carry the one."],
-  ["S", "First digits. Two times four is eight, plus the one. Nine."],
-  ["S", "Nine hundred and forty-three!"],
-  ["S", "Your turn: thirty-two times twenty-one."]]},
- {"name": "m2", "lines": [
-  ["S", "Fourteen times seventeen."],
-  ["S", "Numbers between eleven and nineteen? Easy."],
-  ["S", "Add fourteen to the seven. Twenty-one. Put a zero on the end. Two hundred and ten."],
-  ["S", "Now multiply the last digits. Four times seven is twenty-eight."],
-  ["S", "Add them. Two hundred and thirty-eight!"],
-  ["S", "Your turn: thirteen times sixteen."]]},
- {"name": "m3", "lines": [
-  ["S", "Ninety-nine percent of forty."],
-  ["S", "No calculator. One second."],
-  ["S", "One percent of forty is zero point four."],
-  ["S", "Ninety-nine percent is all of it, minus one percent."],
-  ["S", "Forty minus zero point four. Thirty-nine point six!"],
-  ["S", "Your turn: ninety-nine percent of seventy."]]},
- {"name": "m4", "lines": [
-  ["S", "One thousand minus four hundred and sixty-seven."],
-  ["S", "Here's the trick. Take every digit from nine, and the last one from ten."],
-  ["S", "Nine minus four is five."],
-  ["S", "Nine minus six is three."],
-  ["S", "Ten minus seven is three."],
-  ["S", "Five hundred and thirty-three!"],
-  ["S", "Your turn: one thousand minus two hundred and eighty-four."]]}
+ {"name": "r1", "lines": [
+  ["V", "Think of a number from one to ten. Got it? Don't tell me."],
+  ["V", "Double it."],
+  ["V", "Now add ten."],
+  ["V", "Now halve it."],
+  ["V", "Now take away the number you first thought of."],
+  ["V", "Your answer is... five! Am I right?"],
+  ["V", "Here's the secret. Your number disappears, so everyone ends on five."],
+  ["V", "Comment if I got you!"]]},
+ {"name": "r2", "lines": [
+  ["V", "Pick any three-digit number. Like seven three two. The first and last digits must be different."],
+  ["V", "Reverse it. Two three seven."],
+  ["V", "Take the smaller from the bigger. Four nine five."],
+  ["V", "Now reverse that. Five nine four."],
+  ["V", "Add them together."],
+  ["V", "One thousand and eighty-nine!"],
+  ["V", "Try it with your own number. You get one thousand and eighty-nine every time. Comment your number!"]]},
+ {"name": "r3", "lines": [
+  ["V", "Sixty-five squared."],
+  ["V", "Take the six. Times the next number, seven. Forty-two."],
+  ["V", "Then stick twenty-five on the end."],
+  ["V", "Four thousand two hundred and twenty-five!"],
+  ["V", "Your turn: eighty-five squared."]]},
+ {"name": "r4", "lines": [
+  ["V", "Four hundred and fifty-seven, plus three hundred and eighty-six."],
+  ["V", "Go left to right. Four hundred plus three hundred is seven hundred."],
+  ["V", "Fifty plus eighty is a hundred and thirty. So eight hundred and thirty."],
+  ["V", "Seven plus six is thirteen."],
+  ["V", "Eight hundred and forty-three!"],
+  ["V", "Your turn: six hundred and twenty-nine plus two hundred and eighty-four."]]}
 ]}
